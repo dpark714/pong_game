@@ -6,15 +6,6 @@
 Pong is one of the most well-known games for two people to play together. Pong Game is built in Python using a built-in graphic module called Turtle. 
 To move their paddles vertically, one player can use the direction key, and another player can use the "e" and "s" keys. They are used by the players to hit the ball back and forth; any player who misses the ball loses. The ball's speed will increase as the player strikes it; otherwise, it will be reset after the game is over. 
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
