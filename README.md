@@ -9,10 +9,14 @@ To move their paddles vertically, one player can use the direction key, and anot
 
 ### Executing program
 
-Program is consisted with four python files: main.py, ball.py, paddle.py, scoreboard.py. 
+Program is consisted with four python files: main.py, ball.py, paddle.py, scoreboard.py.
+
 main.py is for functionality.
+
 ball.py is used to create a ball.
+
 paddle.py is used to create two paddles(left and right side).
+
 scoreboard.py is used to update the score when each player misses a collision. 
 
 ## Help
@@ -24,7 +28,6 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names
 
 Dahyeon Park
 
